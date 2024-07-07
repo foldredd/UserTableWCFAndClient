@@ -1,0 +1,10 @@
+D:\Testing\UserService\UserService\bin\UserService.dll.config
+D:\Testing\UserService\UserService\bin\UserService.dll
+D:\Testing\UserService\UserService\bin\UserService.pdb
+D:\Testing\UserService\UserService\obj\Debug\UserService.csproj.AssemblyReference.cache
+D:\Testing\UserService\UserService\obj\Debug\UserService.csproj.CoreCompileInputs.cache
+D:\Testing\UserService\UserService\obj\Debug\UserService.dll
+D:\Testing\UserService\UserService\obj\Debug\UserService.pdb
+D:\Testing\UserService\UserService\bin\System.ServiceModel.Primitives.dll
+D:\Testing\UserService\UserService\bin\System.ServiceModel.Primitives.pdb
+D:\Testing\UserService\UserService\obj\Debug\UserServ.57764DC8.Up2Date

@@ -1,0 +1,11 @@
+D:\Testing\UserService\UserServiceHost\bin\Debug\UserServiceHost.exe.config
+D:\Testing\UserService\UserServiceHost\bin\Debug\UserServiceHost.exe
+D:\Testing\UserService\UserServiceHost\bin\Debug\UserServiceHost.pdb
+D:\Testing\UserService\UserServiceHost\bin\Debug\UserService.dll
+D:\Testing\UserService\UserServiceHost\bin\Debug\UserService.pdb
+D:\Testing\UserService\UserServiceHost\bin\Debug\UserService.dll.config
+D:\Testing\UserService\UserServiceHost\obj\Debug\UserServiceHost.csproj.AssemblyReference.cache
+D:\Testing\UserService\UserServiceHost\obj\Debug\UserServiceHost.csproj.CoreCompileInputs.cache
+D:\Testing\UserService\UserServiceHost\obj\Debug\UserServ.944E3612.Up2Date
+D:\Testing\UserService\UserServiceHost\obj\Debug\UserServiceHost.exe
+D:\Testing\UserService\UserServiceHost\obj\Debug\UserServiceHost.pdb

@@ -1,0 +1,13 @@
+D:\Testing\Art-Zvit\Art-Zvit\bin\Debug\Art-Zvit.exe
+D:\Testing\Art-Zvit\Art-Zvit\bin\Debug\Art-Zvit.pdb
+D:\Testing\Art-Zvit\Art-Zvit\obj\Debug\Art-Zvit.csproj.AssemblyReference.cache
+D:\Testing\Art-Zvit\Art-Zvit\obj\Debug\Art_Zvit.Form1.resources
+D:\Testing\Art-Zvit\Art-Zvit\obj\Debug\Art_Zvit.Properties.Resources.resources
+D:\Testing\Art-Zvit\Art-Zvit\obj\Debug\Art-Zvit.csproj.GenerateResource.cache
+D:\Testing\Art-Zvit\Art-Zvit\obj\Debug\Art-Zvit.csproj.CoreCompileInputs.cache
+D:\Testing\Art-Zvit\Art-Zvit\obj\Debug\Art-Zvit.exe
+D:\Testing\Art-Zvit\Art-Zvit\obj\Debug\Art-Zvit.pdb
+D:\Testing\Art-Zvit\Art-Zvit\obj\Debug\Art_Zvit.Forms.EditUserForm.resources
+D:\Testing\Art-Zvit\Art-Zvit\obj\Debug\Art_Zvit.Forms.CreateUserForm.resources
+D:\Testing\Art-Zvit\Art-Zvit\obj\Debug\Art_Zvit.Forms.DeleteUserForm.resources
+D:\Testing\Art-Zvit\Art-Zvit\bin\Debug\Art-Zvit.exe.config
