@@ -32,6 +32,7 @@ Database:
 ![image](https://github.com/foldredd/UserTableWCFAndClient/assets/141770191/947a5b0a-53d6-4bcd-86c9-2bb4957e2c9c)
 Table Users
 
+in the attached files you can familiarize yourself with the source code and configuration of the applications 
 
 
 
