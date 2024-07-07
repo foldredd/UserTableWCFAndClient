@@ -16,7 +16,7 @@ This repository contains 2 programs:
 ### WCF Service (UserService)
 
 - Hosting on IIS for data exchange between the Win Forms App and the MSSQL database.
-- Utilization of MSSQL without third-party components like BLToolkit for database access.
+- Using MSSQL without third-party components
 
 ![image](https://github.com/foldredd/UserTableWCFAndClient/assets/141770191/08f54553-c58a-440b-a1fc-54347591490e)
 Main form with list of users 
